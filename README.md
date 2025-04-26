@@ -110,7 +110,7 @@ O diagrama elétrico mostra as conexões entre os Arduinos, os módulos nRF24L01
      - "Direita" ➡️: Ambos os motores no mesmo sentido (inverso ao esquerda).
    - Verifique o Monitor Serial para confirmar o envio e recebimento de comandos 📢.
 
-**Demonstração**: [Ver projeto funcionando](https://drive.google.com/drive/folders/1i8JzHkTcUEUGwg8nRB1wRnrthykEvdyF?usp=sharing)
+**Demonstração**: [Ver relatório do projeto](https://drive.google.com/drive/folders/1i8JzHkTcUEUGwg8nRB1wRnrthykEvdyF?usp=sharing)
 
 ## 🌟 Possíveis Melhorias
 
