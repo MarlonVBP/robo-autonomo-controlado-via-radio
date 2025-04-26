@@ -89,6 +89,7 @@ void mover(int contagemPassos, int M1, int M2) {
       digitalWrite(IN3_M1, steps[j][direcoes[M1][2]]);
       digitalWrite(IN4_M1, steps[j][direcoes[M1][3]]);
 
+      
       digitalWrite(IN1_M2, steps[j][direcoes[M2][0]]);
       digitalWrite(IN2_M2, steps[j][direcoes[M2][1]]);
       digitalWrite(IN3_M2, steps[j][direcoes[M2][2]]);
